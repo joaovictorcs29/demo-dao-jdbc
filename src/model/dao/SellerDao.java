@@ -9,6 +9,6 @@ public interface SellerDao {
     void insert(Seller obj); //insere o objeto enviado como paramentro
     void update(Seller obj);
     void deleteById(Seller id);
-    Seller findById(Seller id);
+    Seller findById(Integer id);
     List<Seller> findAll();
 }
