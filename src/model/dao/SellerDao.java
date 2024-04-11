@@ -4,7 +4,7 @@ import model.entities.Seller;
 
 import java.util.List;
 
-public class SellerDao {
+public interface SellerDao {
 
     void insert(Seller obj); //insere o objeto enviado como paramentro
     void update(Seller obj);
