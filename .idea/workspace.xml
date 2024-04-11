@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d14a5c2-eef7-46eb-93b7-afe221d42186" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -51,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Program.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -96,7 +98,7 @@
       <workItem from="1712688385129" duration="80000" />
       <workItem from="1712688485745" duration="2725000" />
       <workItem from="1712755032387" duration="669000" />
-      <workItem from="1712755717757" duration="2045000" />
+      <workItem from="1712755717757" duration="6012000" />
     </task>
     <servers />
   </component>
